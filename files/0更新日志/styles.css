@@ -17,7 +17,7 @@
   left:31px;
   top:94px;
   width:1108px;
-  height:71px;
+  height:107px;
 }
 #u1_img {
   position:absolute;
@@ -188,14 +188,99 @@
   visibility:hidden;
   word-wrap:break-word;
 }
+#u17_img {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:192px;
+  height:36px;
+}
 #u17 {
+  position:absolute;
+  left:0px;
+  top:66px;
+  width:192px;
+  height:36px;
+}
+#u18 {
+  position:absolute;
+  left:2px;
+  top:10px;
+  width:188px;
+  word-wrap:break-word;
+}
+#u19_img {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:192px;
+  height:36px;
+}
+#u19 {
+  position:absolute;
+  left:192px;
+  top:66px;
+  width:192px;
+  height:36px;
+}
+#u20 {
+  position:absolute;
+  left:2px;
+  top:10px;
+  width:188px;
+  word-wrap:break-word;
+}
+#u21_img {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:506px;
+  height:36px;
+}
+#u21 {
+  position:absolute;
+  left:384px;
+  top:66px;
+  width:506px;
+  height:36px;
+}
+#u22 {
+  position:absolute;
+  left:2px;
+  top:10px;
+  width:502px;
+  word-wrap:break-word;
+}
+#u23_img {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:213px;
+  height:36px;
+}
+#u23 {
+  position:absolute;
+  left:890px;
+  top:66px;
+  width:213px;
+  height:36px;
+}
+#u24 {
+  position:absolute;
+  left:2px;
+  top:10px;
+  width:209px;
+  visibility:hidden;
+  word-wrap:break-word;
+}
+#u25 {
   position:absolute;
   left:0px;
   top:0px;
   width:0px;
   height:0px;
 }
-#u18_div {
+#u26_div {
   position:absolute;
   left:0px;
   top:0px;
@@ -209,14 +294,14 @@
   -webkit-box-shadow:none;
   box-shadow:none;
 }
-#u18 {
+#u26 {
   position:absolute;
   left:979px;
   top:16px;
   width:145px;
   height:68px;
 }
-#u19 {
+#u27 {
   position:absolute;
   left:2px;
   top:26px;
@@ -224,7 +309,7 @@
   visibility:hidden;
   word-wrap:break-word;
 }
-#u20_div {
+#u28_div {
   position:absolute;
   left:0px;
   top:0px;
@@ -240,7 +325,7 @@
   color:#FFFFFF;
   text-align:center;
 }
-#u20 {
+#u28 {
   position:absolute;
   left:970px;
   top:39px;
@@ -249,14 +334,14 @@
   color:#FFFFFF;
   text-align:center;
 }
-#u21 {
+#u29 {
   position:absolute;
   left:2px;
   top:2px;
   width:160px;
   word-wrap:break-word;
 }
-#u22 {
+#u30 {
   position:absolute;
   left:979px;
   top:16px;
